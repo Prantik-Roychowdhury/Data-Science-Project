@@ -1,7 +1,7 @@
 # Data-Science-Project
 
-In this Project, you will be using all the skills that you have acquired
-throughout this course.
+In this Project, I used all the skills that you have acquired
+throughout the Introduction to Data Science course by Internshala
 Problem Statement
 Your client is a retail banking institution. Term deposits are a major source
 of income for a bank.
